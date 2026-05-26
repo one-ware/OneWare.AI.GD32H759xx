@@ -1,0 +1,20 @@
+{
+	"configurationName": "GD32H759xx",
+    "hardwareType": "MCU", 
+    "prioritizeSpeedOptimization": true, 
+    "dspGroups": 1, 
+    "prioritizeMemoryOptimization": true,
+    "memoryLimitUnit": "KB",
+    "optimizeForParallelExecution": false,
+    "quantizedCalculations": true,
+    "bitsPerValue": 8,
+    "types": [
+        {
+            "name": "GD32H759xx",
+            "computeCapability": 600,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": none,
+            "memoryLimit": 1024,
+            "memoryLimitUnit": "KB"
+        },
+},
