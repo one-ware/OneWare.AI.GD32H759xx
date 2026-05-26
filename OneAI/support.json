@@ -13,7 +13,7 @@
             "name": "GD32H759xx",
             "computeCapability": 600,
             "computeCapabilityUnit": "MOPS",
-            "dspBlocks": none,
+            "dspBlocks": 0,
             "memoryLimit": 1024,
             "memoryLimitUnit": "KB"
         },
