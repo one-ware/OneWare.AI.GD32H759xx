@@ -16,5 +16,6 @@
             "dspBlocks": 0,
             "memoryLimit": 1024,
             "memoryLimitUnit": "KB"
-        },
+        }
+	]
 },
