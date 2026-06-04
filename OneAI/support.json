@@ -10,7 +10,7 @@
     "bitsPerValue": 8,
     "types": [
         {
-            "name": "GD32H759xx",
+            "name": "Default",
             "computeCapability": 600,
             "computeCapabilityUnit": "MOPS",
             "dspBlocks": 0,
